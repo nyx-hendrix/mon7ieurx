@@ -1,0 +1,350 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="##### GENERAL HIGHT QUALITY FHD #####" tvg-logo="http://logo.protv.cc/picons/logos/france-flag.png" group-title="|EU| FRANCE GENERAL",##### GENERAL HIGHT QUALITY FHD #####
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543281
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="FR - TF1 FHD ◉" tvg-logo="http://logo.protv.cc/picons/logos/tf1hd.png" group-title="|EU| FRANCE GENERAL",FR - TF1 FHD ◉
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/553959
+#EXTINF:-1 tvg-id="" tvg-name="FR - TF1 +1 FHD" tvg-logo="" group-title="|EU| FRANCE GENERAL",FR - TF1 +1 FHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/629688
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="FR - FRANCE 2 FHD ◉" tvg-logo="http://logo.protv.cc/picons/logos/france2hd.png" group-title="|EU| FRANCE GENERAL",FR - FRANCE 2 FHD ◉
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/553960
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="FR - FRANCE 3 FHD ◉" tvg-logo="http://logo.protv.cc/picons/logos/france3hd.png" group-title="|EU| FRANCE GENERAL",FR - FRANCE 3 FHD ◉
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/553961
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="FR - FRANCE 4 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france4.png" group-title="|EU| FRANCE GENERAL",FR - FRANCE 4 FHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/553962
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="FR - FRANCE 5 FHD ◉" tvg-logo="http://logo.protv.cc/picons/logos/france5.png" group-title="|EU| FRANCE GENERAL",FR - FRANCE 5 FHD ◉
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/553963
+#EXTINF:-1 tvg-id="ARTE.fr" tvg-name="FR - ARTE FHD" tvg-logo="http://logo.protv.cc/picons/logos/artehd.png" group-title="|EU| FRANCE GENERAL",FR - ARTE FHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/553965
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="FR - M6 FHD ◉" tvg-logo="http://logo.protv.cc/picons/logos/m6hd.png" group-title="|EU| FRANCE GENERAL",FR - M6 FHD ◉
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/553964
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="FR - 6TER FHD" tvg-logo="http://logo.protv.cc/picons/logos/6ter.png" group-title="|EU| FRANCE GENERAL",FR - 6TER FHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/553968
+#EXTINF:-1 tvg-id="C8.fr" tvg-name="FR - C8 FHD ◉" tvg-logo="http://logo.protv.cc/picons/logos/c8.png" group-title="|EU| FRANCE GENERAL",FR - C8 FHD ◉
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/553967
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="FR - W9 FHD ◉" tvg-logo="http://logo.protv.cc/picons/logos/w9hd.png" group-title="|EU| FRANCE GENERAL",FR - W9 FHD ◉
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/553966
+#EXTINF:-1 tvg-id="13Rue.fr" tvg-name="FR - 13 EMERUE FHD" tvg-logo="http://logo.protv.cc/picons/logos/13emeruehd.png" group-title="|EU| FRANCE GENERAL",FR - 13 EMERUE FHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/553976
+#EXTINF:-1 tvg-id="TFX.fr" tvg-name="FR - TFX FHD" tvg-logo="http://logo.protv.cc/picons/logos/tfx.png" group-title="|EU| FRANCE GENERAL",FR - TFX FHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/553970
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="FR - TF1 SERIES FHD" tvg-logo="http://logo.protv.cc/picons/logos/tf1seriesfilms.png" group-title="|EU| FRANCE GENERAL",FR - TF1 SERIES FHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/553969
+#EXTINF:-1 tvg-id="BET.fr" tvg-name="FR - BET FHD" tvg-logo="http://logo.protv.cc/picons/logos/bet.png" group-title="|EU| FRANCE GENERAL",FR - BET FHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/553978
+#EXTINF:-1 tvg-id="CStar.fr" tvg-name="FR - CSTAR FHD" tvg-logo="http://logo.protv.cc/picons/logos/cstar.png" group-title="|EU| FRANCE GENERAL",FR - CSTAR FHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/553992
+#EXTINF:-1 tvg-id="ComediePlus.fr" tvg-name="FR - COMEDIE+ FHD" tvg-logo="http://logo.protv.cc/picons/logos/comedieplushd.png" group-title="|EU| FRANCE GENERAL",FR - COMEDIE+ FHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/554041
+#EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-name="FR - PARIS PREMIERE FHD" tvg-logo="http://logo.protv.cc/picons/logos/parispremierehd.png" group-title="|EU| FRANCE GENERAL",FR - PARIS PREMIERE FHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/553980
+#EXTINF:-1 tvg-id="" tvg-name="FR - RTL 9 FHD" tvg-logo="http://logo.protv.cc/picons/logos/rtl9hd.png" group-title="|EU| FRANCE GENERAL",FR - RTL 9 FHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/553990
+#EXTINF:-1 tvg-id="Teva.fr" tvg-name="FR - TEVA FHD" tvg-logo="http://logo.protv.cc/picons/logos/tevahd.png" group-title="|EU| FRANCE GENERAL",FR - TEVA FHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/553977
+#EXTINF:-1 tvg-id="Cherie25.fr" tvg-name="FR - CHERIE 25 FHD" tvg-logo="http://logo.protv.cc/picons/logos/cherie25.png" group-title="|EU| FRANCE GENERAL",FR - CHERIE 25 FHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/553979
+#EXTINF:-1 tvg-id="CrimeDistrict.fr" tvg-name="FR - CRIME DISTRICT HD" tvg-logo="http://logo.protv.cc/picons/logos/crimedistrict.png" group-title="|EU| FRANCE GENERAL",FR - CRIME DISTRICT HD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/629548
+#EXTINF:-1 tvg-id="" tvg-name="FR - TREK FHD" tvg-logo="" group-title="|EU| FRANCE GENERAL",FR - TREK FHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/629707
+#EXTINF:-1 tvg-id="" tvg-name="FR - NAT GEO WILD FHD" tvg-logo="" group-title="|EU| FRANCE GENERAL",FR - NAT GEO WILD FHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/629706
+#EXTINF:-1 tvg-id="" tvg-name="FR - CRIME DISTRICT FHD" tvg-logo="" group-title="|EU| FRANCE GENERAL",FR - CRIME DISTRICT FHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/629705
+#EXTINF:-1 tvg-id="" tvg-name="FR - TV BREIZH FHD" tvg-logo="" group-title="|EU| FRANCE GENERAL",FR - TV BREIZH FHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/629704
+#EXTINF:-1 tvg-id="" tvg-name="FR - AB1 FHD" tvg-logo="" group-title="|EU| FRANCE GENERAL",FR - AB1 FHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/629702
+#EXTINF:-1 tvg-id="" tvg-name="FR - AB3 FHD" tvg-logo="" group-title="|EU| FRANCE GENERAL",FR - AB3 FHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/629703
+#EXTINF:-1 tvg-id="" tvg-name="FR - NOVELAS TV FHD" tvg-logo="https://logo.protv.cc/picons/logos/novelastv.png" group-title="|EU| FRANCE GENERAL",FR - NOVELAS TV FHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/629701
+#EXTINF:-1 tvg-id="" tvg-name="FR - CSTAR HITS FHD" tvg-logo="http://logo.protv.cc/picons/logos/cstarhitsfrance.png" group-title="|EU| FRANCE GENERAL",FR - CSTAR HITS FHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/629698
+#EXTINF:-1 tvg-id="" tvg-name="FR - BFM GRAND LITTORAL FHD" tvg-logo="" group-title="|EU| FRANCE GENERAL",FR - BFM GRAND LITTORAL FHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/629693
+#EXTINF:-1 tvg-id="" tvg-name="FR - WEO HD" tvg-logo="" group-title="|EU| FRANCE GENERAL",FR - WEO HD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/629692
+#EXTINF:-1 tvg-id="" tvg-name="FR - NRJ 12 FHD" tvg-logo="" group-title="|EU| FRANCE GENERAL",FR - NRJ 12 FHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/629691
+#EXTINF:-1 tvg-id="" tvg-name="FR - TMC FHD" tvg-logo="" group-title="|EU| FRANCE GENERAL",FR - TMC FHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/629689
+#EXTINF:-1 tvg-id="" tvg-name="FR - ONE TV HD" tvg-logo="" group-title="|EU| FRANCE GENERAL",FR - ONE TV HD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/629547
+#EXTINF:-1 tvg-id="" tvg-name="##### GENERAL HIGHT QUALITY HEVC #####" tvg-logo="http://logo.protv.cc/picons/logos/france-flag.png" group-title="|EU| FRANCE GENERAL",##### GENERAL HIGHT QUALITY HEVC #####
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/627037
+#EXTINF:-1 tvg-id="" tvg-name="##### GENERAL LOW QUALITY SD #####" tvg-logo="http://logo.protv.cc/picons/logos/france-flag.png" group-title="|EU| FRANCE GENERAL",##### GENERAL LOW QUALITY SD #####
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/627038
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="FR - TF 1 SD" tvg-logo="http://logo.protv.cc/picons/logos/tf1hd.png" group-title="|EU| FRANCE GENERAL",FR - TF 1 SD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543147
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="FR - FRANCE 2 SD" tvg-logo="http://logo.protv.cc/picons/logos/france2hd.png" group-title="|EU| FRANCE GENERAL",FR - FRANCE 2 SD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543149
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="FR - FRANCE 3 SD" tvg-logo="http://logo.protv.cc/picons/logos/france3hd.png" group-title="|EU| FRANCE GENERAL",FR - FRANCE 3 SD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543151
+#EXTINF:-1 tvg-id="" tvg-name="FR - FRANCE 3 NOA SD" tvg-logo="http://logo.protv.cc/picons/logos/france3hd.png" group-title="|EU| FRANCE GENERAL",FR - FRANCE 3 NOA SD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543157
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="FR - FRANCE 4 SD" tvg-logo="http://logo.protv.cc/picons/logos/france4.png" group-title="|EU| FRANCE GENERAL",FR - FRANCE 4 SD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543153
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="FR - FRANCE 5 SD" tvg-logo="http://logo.protv.cc/picons/logos/france5.png" group-title="|EU| FRANCE GENERAL",FR - FRANCE 5 SD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543155
+#EXTINF:-1 tvg-id="ARTE.fr" tvg-name="FR - ARTE SD" tvg-logo="http://logo.protv.cc/picons/logos/artehd.png" group-title="|EU| FRANCE GENERAL",FR - ARTE SD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543195
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="FR - M6 SD" tvg-logo="http://logo.protv.cc/picons/logos/m6hd.png" group-title="|EU| FRANCE GENERAL",FR - M6 SD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543159
+#EXTINF:-1 tvg-id="C8.fr" tvg-name="FR - C8 SD" tvg-logo="http://logo.protv.cc/picons/logos/c8.png" group-title="|EU| FRANCE GENERAL",FR - C8 SD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543165
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="FR - W9 SD" tvg-logo="http://logo.protv.cc/picons/logos/w9hd.png" group-title="|EU| FRANCE GENERAL",FR - W9 SD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543167
+#EXTINF:-1 tvg-id="RTS1.ch" tvg-name="FR - RTS UNE SD" tvg-logo="http://logo.protv.cc/picons/logos/rtsunhd.png" group-title="|EU| FRANCE GENERAL",FR - RTS UNE SD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543187
+#EXTINF:-1 tvg-id="RTS2.ch" tvg-name="FR - RTS DEUX SD" tvg-logo="http://logo.protv.cc/picons/logos/rtsdeuxhd.png" group-title="|EU| FRANCE GENERAL",FR - RTS DEUX SD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543189
+#EXTINF:-1 tvg-id="AB1.fr" tvg-name="FR - AB1 SD" tvg-logo="http://logo.protv.cc/picons/logos/ab1.png" group-title="|EU| FRANCE GENERAL",FR - AB1 SD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543213
+#EXTINF:-1 tvg-id="AB3.fr" tvg-name="FR - AB3 SD" tvg-logo="http://logo.protv.cc/picons/logos/ab3.png" group-title="|EU| FRANCE GENERAL",FR - AB3 SD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543215
+#EXTINF:-1 tvg-id="TvBreizh.fr" tvg-name="FR - TV BREIZH SD" tvg-logo="http://logo.protv.cc/picons/logos/tvbreizhhd.png" group-title="|EU| FRANCE GENERAL",FR - TV BREIZH SD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/587372
+#EXTINF:-1 tvg-id="TV5Monde.fr" tvg-name="FR - TV5 MONDE SD" tvg-logo="http://logo.protv.cc/picons/logos/tv5mondehd.png" group-title="|EU| FRANCE GENERAL",FR - TV5 MONDE SD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543247
+#EXTINF:-1 tvg-id="13Rue.fr" tvg-name="FR - 13 EME RUE SD" tvg-logo="http://logo.protv.cc/picons/logos/13emeruehd.png" group-title="|EU| FRANCE GENERAL",FR - 13 EME RUE SD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543177
+#EXTINF:-1 tvg-id="TFX.fr" tvg-name="FR - TFX SD" tvg-logo="http://logo.protv.cc/picons/logos/tfx.png" group-title="|EU| FRANCE GENERAL",FR - TFX SD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543161
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="FR - TF1 SERIES SD" tvg-logo="http://logo.protv.cc/picons/logos/tf1seriesfilms.png" group-title="|EU| FRANCE GENERAL",FR - TF1 SERIES SD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543163
+#EXTINF:-1 tvg-id="BET.fr" tvg-name="FR - BET SD" tvg-logo="http://logo.protv.cc/picons/logos/bethdfrance.png" group-title="|EU| FRANCE GENERAL",FR - BET SD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543222
+#EXTINF:-1 tvg-id="CStar.fr" tvg-name="FR - CSTAR SD" tvg-logo="http://logo.protv.cc/picons/logos/cstar.png" group-title="|EU| FRANCE GENERAL",FR - CSTAR SD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543171
+#EXTINF:-1 tvg-id="" tvg-name="FR - CLIQUE TV SD" tvg-logo="http://logo.protv.cc/picons/logos/cliquetv.png" group-title="|EU| FRANCE GENERAL",FR - CLIQUE TV SD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543253
+#EXTINF:-1 tvg-id="" tvg-name="FR - COMÉDIE " tvg-logo="" group-title="|FR| PLUTO TV UHD",FR - COMÉDIE 
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/593781
+#EXTINF:-1 tvg-id="GameOne.fr" tvg-name="FR - GAME ONE" tvg-logo="http://logo.protv.cc/picons/logos/gameone.png" group-title="|EU| FRANCE KIDS",FR - GAME ONE
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543347
+#EXTINF:-1 tvg-id="" tvg-name="FR - NOVELAS SD" tvg-logo="http://logo.protv.cc/picons/logos/novelastv.png" group-title="|EU| FRANCE GENERAL",FR - NOVELAS SD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543199
+#EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-name="FR - PARIS PREMIERE SD" tvg-logo="http://logo.protv.cc/picons/logos/parispremierehd.png" group-title="|EU| FRANCE GENERAL",FR - PARIS PREMIERE SD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543219
+#EXTINF:-1 tvg-id="" tvg-name="FR - RTL 9 SD" tvg-logo="http://logo.protv.cc/picons/logos/rtl9hd.png" group-title="|EU| FRANCE GENERAL",FR - RTL 9 SD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543185
+#EXTINF:-1 tvg-id="Teva.fr" tvg-name="FR - TEVA SD" tvg-logo="http://logo.protv.cc/picons/logos/tevahd.png" group-title="|EU| FRANCE GENERAL",FR - TEVA SD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543183
+#EXTINF:-1 tvg-id="Trek.fr" tvg-name="FR - TREK" tvg-logo="http://logo.protv.cc/picons/logos/trek.png" group-title="",FR - TREK
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/248880
+#EXTINF:-1 tvg-id="Cherie25.fr" tvg-name="FR - CHERIE 25 SD" tvg-logo="http://logo.protv.cc/picons/logos/cherie25.png" group-title="|EU| FRANCE GENERAL",FR - CHERIE 25 SD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543207
+#EXTINF:-1 tvg-id="MezzoLive.fr" tvg-name="FR - MEZZO LIVE SD" tvg-logo="http://logo.protv.cc/picons/logos/mezzolivehd.png" group-title="|EU| FRANCE GENERAL",FR - MEZZO LIVE SD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543276
+#EXTINF:-1 tvg-id="" tvg-name="FR - NAUTICAL" tvg-logo="http://logo.protv.cc/picons/logos/nauticalchannel.png" group-title="|EU| FRANCE ENTERTAINMENT",FR - NAUTICAL
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543577
+#EXTINF:-1 tvg-id="" tvg-name="##### SPORTS HIGHT QUALITY FHD #####" tvg-logo="http://logo.protv.cc/picons/logos/france-flag.png" group-title="|EU| FRANCE SPORTS",##### SPORTS HIGHT QUALITY FHD #####
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/627493
+#EXTINF:-1 tvg-id="" tvg-name="FR - AMAZON PRIME 1 FHD [LIVE-EVENT]" tvg-logo="http://logo.protv.cc/picons/logos/ligue1.png" group-title="|EU| FRANCE SPORTS",FR - AMAZON PRIME 1 FHD [LIVE-EVENT]
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/605978
+#EXTINF:-1 tvg-id="" tvg-name="FR - AMAZON PRIME 2 FHD [LIVE-EVENT]" tvg-logo="http://logo.protv.cc/picons/logos/ligue1.png" group-title="|EU| FRANCE SPORTS",FR - AMAZON PRIME 2 FHD [LIVE-EVENT]
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/605977
+#EXTINF:-1 tvg-id="" tvg-name="FR - AMAZON PRIME 3 FHD [LIVE-EVENT]" tvg-logo="http://logo.protv.cc/picons/logos/ligue1.png" group-title="|EU| FRANCE SPORTS",FR - AMAZON PRIME 3 FHD [LIVE-EVENT]
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/605976
+#EXTINF:-1 tvg-id="" tvg-name="FR - AMAZON PRIME 4 FHD [LIVE-EVENT]" tvg-logo="http://logo.protv.cc/picons/logos/ligue1.png" group-title="|EU| FRANCE SPORTS",FR - AMAZON PRIME 4 FHD [LIVE-EVENT]
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/605975
+#EXTINF:-1 tvg-id="" tvg-name="FR - AMAZON PRIME 5 FHD [LIVE-EVENT]" tvg-logo="http://logo.protv.cc/picons/logos/ligue1.png" group-title="|EU| FRANCE SPORTS",FR - AMAZON PRIME 5 FHD [LIVE-EVENT]
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/605974
+#EXTINF:-1 tvg-id="" tvg-name="FR - AMAZON PRIME 6 FHD [LIVE-EVENT]" tvg-logo="http://logo.protv.cc/picons/logos/ligue1.png" group-title="|EU| FRANCE SPORTS",FR - AMAZON PRIME 6 FHD [LIVE-EVENT]
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/605973
+#EXTINF:-1 tvg-id="" tvg-name="FR - AMAZON PRIME 7 FHD [LIVE-EVENT]" tvg-logo="http://logo.protv.cc/picons/logos/ligue1.png" group-title="|EU| FRANCE SPORTS",FR - AMAZON PRIME 7 FHD [LIVE-EVENT]
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/605972
+#EXTINF:-1 tvg-id="" tvg-name="FR - AMAZON PRIME 8 FHD [LIVE-EVENT]" tvg-logo="http://logo.protv.cc/picons/logos/ligue1.png" group-title="|EU| FRANCE SPORTS",FR - AMAZON PRIME 8 FHD [LIVE-EVENT]
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/605971
+#EXTINF:-1 tvg-id="" tvg-name="FR - CANAl+ SPORT LDC UHD" tvg-logo="http://logo.protv.cc/picons/logos/CANAl+-SPORT-LDC.png" group-title="|EU| FRANCE SPORTS",FR - CANAl+ SPORT LDC UHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/629542
+#EXTINF:-1 tvg-id="" tvg-name="FR - CANAl+ SPORT LDC HD" tvg-logo="http://logo.protv.cc/picons/logos/CANAl+-SPORT-LDC.png" group-title="|EU| FRANCE SPORTS",FR - CANAl+ SPORT LDC HD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/629541
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="FR - CANAL+ SPORT FHD" tvg-logo="http://logo.protv.cc/picons/logos/canalplussporthd.png" group-title="|EU| FRANCE SPORTS",FR - CANAL+ SPORT FHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/554013
+#EXTINF:-1 tvg-id="" tvg-name="FR - CANAL+ PL FHD" tvg-logo="http://logo.protv.cc/picons/logos/CANAL+-PREMIER-LEAGUE.png" group-title="|EU| FRANCE SPORTS",FR - CANAL+ PL FHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/554015
+#EXTINF:-1 tvg-id="" tvg-name="FR - CANAL+ TOP FHD" tvg-logo="http://logo.protv.cc/picons/logos/CANAL+TOP14.png" group-title="|EU| FRANCE SPORTS",FR - CANAL+ TOP FHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/554014
+#EXTINF:-1 tvg-id="CanalPlusFormula1.fr" tvg-name="FR - CANAL+ FORMULA1 FHD" tvg-logo="http://logo.protv.cc/picons/logos/CANAL+-FORMULA1.jpeg" group-title="|EU| FRANCE SPORTS",FR - CANAL+ FORMULA1 FHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/640337
+#EXTINF:-1 tvg-id="InfosportPlus.fr" tvg-name="FR - INFOSPORT+ FHD" tvg-logo="http://logo.protv.cc/picons/logos/infosportplus.png" group-title="|EU| FRANCE SPORTS",FR - INFOSPORT+ FHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/554018
+#EXTINF:-1 tvg-id="FootPlus24.fr" tvg-name="FR - FOOT 24/24 FHD" tvg-logo="http://logo.protv.cc/picons/logos/FOOT-24-24.jpeg" group-title="|EU| FRANCE SPORTS",FR - FOOT 24/24 FHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/554019
+#EXTINF:-1 tvg-id="BeinSports1.fr" tvg-name="FR - BEIN SPORTS 1 FHD" tvg-logo="http://logo.protv.cc/picons/logos/beinsports1hd.png" group-title="|EU| FRANCE SPORTS",FR - BEIN SPORTS 1 FHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/554021
+#EXTINF:-1 tvg-id="BeinSports2.fr" tvg-name="FR - BEIN SPORTS 2 FHD" tvg-logo="http://logo.protv.cc/picons/logos/beinsports2hd.png" group-title="|EU| FRANCE SPORTS",FR - BEIN SPORTS 2 FHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/554022
+#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="FR - BEIN SPORTS 3 FHD" tvg-logo="http://logo.protv.cc/picons/logos/beinsports3hdfrance.png" group-title="|EU| FRANCE SPORTS",FR - BEIN SPORTS 3 FHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/554023
+#EXTINF:-1 tvg-id="RMCSport1.fr" tvg-name="FR - RMC SPORT 1 FHD" tvg-logo="http://logo.protv.cc/picons/logos/rmcsport1hd.png" group-title="|EU| FRANCE SPORTS",FR - RMC SPORT 1 FHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/554024
+#EXTINF:-1 tvg-id="RMCSport1.fr" tvg-name="FR - RMC SPORT 1 FHD •" tvg-logo="http://logo.protv.cc/picons/logos/rmcsport1hd.png" group-title="|EU| FRANCE SPORTS",FR - RMC SPORT 1 FHD •
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543386
+#EXTINF:-1 tvg-id="RMCSport2.fr" tvg-name="FR - RMC SPORT 2 FHD" tvg-logo="http://logo.protv.cc/picons/logos/rmcsport2hd.png" group-title="|EU| FRANCE SPORTS",FR - RMC SPORT 2 FHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/554025
+#EXTINF:-1 tvg-id="" tvg-name="FR - RMC SPORT 3 LIVE FHD" tvg-logo="http://logo.protv.cc/picons/logos/rmcsport.png" group-title="|EU| FRANCE SPORTS",FR - RMC SPORT 3 LIVE FHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543390
+#EXTINF:-1 tvg-id="" tvg-name="FR - RMC SPORT 4 LIVE FHD" tvg-logo="http://logo.protv.cc/picons/logos/rmcsport.png" group-title="|EU| FRANCE SPORTS",FR - RMC SPORT 4 LIVE FHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543392
+#EXTINF:-1 tvg-id="BeinSports1.fr" tvg-name="FR - BEIN SPORTS 1 UHD" tvg-logo="http://logo.protv.cc/picons/logos/beinsports1hd.png" group-title="|EU| FRANCE SPORTS",FR - BEIN SPORTS 1 UHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543394
+#EXTINF:-1 tvg-id="BeinSports2.fr" tvg-name="FR - BEIN SPORTS 2 UHD" tvg-logo="http://logo.protv.cc/picons/logos/beinsports2hd.png" group-title="|EU| FRANCE SPORTS",FR - BEIN SPORTS 2 UHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543396
+#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="FR - BEIN SPORTS 3 UHD" tvg-logo="http://logo.protv.cc/picons/logos/beinsports3hdfrance.png" group-title="|EU| FRANCE SPORTS",FR - BEIN SPORTS 3 UHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543398
+#EXTINF:-1 tvg-id="RMCSportLive5.fr" tvg-name="FR - RMC SPORT LIVE 5 FHD" tvg-logo="http://logo.protv.cc/picons/logos/RMC-SPORT-LIVE-5-HD.png" group-title="|EU| FRANCE SPORTS",FR - RMC SPORT LIVE 5 FHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543430
+#EXTINF:-1 tvg-id="RMCSportLive6.fr" tvg-name="FR - RMC SPORT LIVE 6 FHD" tvg-logo="http://logo.protv.cc/picons/logos/RMC-SPORT-LIVE-6-HD.png" group-title="|EU| FRANCE SPORTS",FR - RMC SPORT LIVE 6 FHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543431
+#EXTINF:-1 tvg-id="RMCSportLive7.fr" tvg-name="FR - RMC SPORT LIVE 7 FHD" tvg-logo="http://logo.protv.cc/picons/logos/RMC-SPORT-LIVE-7-HD.png" group-title="|EU| FRANCE SPORTS",FR - RMC SPORT LIVE 7 FHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543432
+#EXTINF:-1 tvg-id="RMCSportLive8.fr" tvg-name="FR - RMC SPORT LIVE 8 FHD" tvg-logo="http://logo.protv.cc/picons/logos/RMC-SPORT-LIVE-8-HD.png" group-title="|EU| FRANCE SPORTS",FR - RMC SPORT LIVE 8 FHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543433
+#EXTINF:-1 tvg-id="Bein4Max.fr" tvg-name="FR - BEIN SPORTS MAX 4 UHD" tvg-logo="http://logo.protv.cc/picons/logos/beinsportsmax4.png" group-title="|EU| FRANCE SPORTS",FR - BEIN SPORTS MAX 4 UHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/548746
+#EXTINF:-1 tvg-id="Bein5Max.fr" tvg-name="FR - BEIN SPORTS MAX 5 UHD" tvg-logo="http://logo.protv.cc/picons/logos/beinsportsmax5.png" group-title="|EU| FRANCE SPORTS",FR - BEIN SPORTS MAX 5 UHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/548747
+#EXTINF:-1 tvg-id="Bein6Max.fr" tvg-name="FR - BEIN SPORTS MAX 6 UHD" tvg-logo="http://logo.protv.cc/picons/logos/beinsportsmax6.png" group-title="|EU| FRANCE SPORTS",FR - BEIN SPORTS MAX 6 UHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/548748
+#EXTINF:-1 tvg-id="Bein7Max.fr" tvg-name="FR - BEIN SPORTS MAX 7 UHD" tvg-logo="http://logo.protv.cc/picons/logos/beinsportsmax7.png" group-title="|EU| FRANCE SPORTS",FR - BEIN SPORTS MAX 7 UHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/548749
+#EXTINF:-1 tvg-id="Bein8Max.fr" tvg-name="FR - BEIN SPORTS MAX 8 UHD" tvg-logo="http://logo.protv.cc/picons/logos/beinsportsmax8.png" group-title="|EU| FRANCE SPORTS",FR - BEIN SPORTS MAX 8 UHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/548750
+#EXTINF:-1 tvg-id="Bein9Max.fr" tvg-name="FR - BEIN SPORTS MAX 9 UHD" tvg-logo="http://logo.protv.cc/picons/logos/beinsportsmax9.png" group-title="|EU| FRANCE SPORTS",FR - BEIN SPORTS MAX 9 UHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/548751
+#EXTINF:-1 tvg-id="Bein10Max.fr" tvg-name="FR - BEIN SPORTS MAX 10 UHD" tvg-logo="http://logo.protv.cc/picons/logos/beinsportsmax10.png" group-title="|EU| FRANCE SPORTS",FR - BEIN SPORTS MAX 10 UHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/548745
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="FR - EUROSPORT 1 FHD" tvg-logo="http://logo.protv.cc/picons/logos/eurosport1hd.png" group-title="|EU| FRANCE SPORTS",FR - EUROSPORT 1 FHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/554026
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="FR - EUROSPORT 2 FHD" tvg-logo="http://logo.protv.cc/picons/logos/eurosport2hd.png" group-title="|EU| FRANCE SPORTS",FR - EUROSPORT 2 FHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/554027
+#EXTINF:-1 tvg-id="" tvg-name="FR - EUROSPORT 360 1 UHD" tvg-logo="http://logo.protv.cc/picons/logos/eurosport360hd1.png" group-title="|EU| FRANCE SPORTS",FR - EUROSPORT 360 1 UHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543422
+#EXTINF:-1 tvg-id="" tvg-name="FR - EUROSPORT 360 2 UHD" tvg-logo="http://logo.protv.cc/picons/logos/eurosport360hd2.png" group-title="|EU| FRANCE SPORTS",FR - EUROSPORT 360 2 UHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543423
+#EXTINF:-1 tvg-id="" tvg-name="FR - EUROSPORT 360 3 UHD" tvg-logo="http://logo.protv.cc/picons/logos/eurosport360hd3.png" group-title="|EU| FRANCE SPORTS",FR - EUROSPORT 360 3 UHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543424
+#EXTINF:-1 tvg-id="" tvg-name="FR - EUROSPORT 360 4 UHD" tvg-logo="http://logo.protv.cc/picons/logos/eurosport360hd4.png" group-title="|EU| FRANCE SPORTS",FR - EUROSPORT 360 4 UHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543425
+#EXTINF:-1 tvg-id="" tvg-name="FR - EUROSPORT 360 5 UHD" tvg-logo="http://logo.protv.cc/picons/logos/eurosport360hd5.png" group-title="|EU| FRANCE SPORTS",FR - EUROSPORT 360 5 UHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543426
+#EXTINF:-1 tvg-id="" tvg-name="FR - EUROSPORT 360 6 UHD" tvg-logo="http://logo.protv.cc/picons/logos/eurosport360hd6.png" group-title="|EU| FRANCE SPORTS",FR - EUROSPORT 360 6 UHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543427
+#EXTINF:-1 tvg-id="" tvg-name="FR - EUROSPORT 360 7 UHD" tvg-logo="http://logo.protv.cc/picons/logos/eurosport360hd7.png" group-title="|EU| FRANCE SPORTS",FR - EUROSPORT 360 7 UHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543428
+#EXTINF:-1 tvg-id="" tvg-name="FR - EUROSPORT 360 8 UHD" tvg-logo="http://logo.protv.cc/picons/logos/eurosport360hd8.png" group-title="|EU| FRANCE SPORTS",FR - EUROSPORT 360 8 UHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543429
+#EXTINF:-1 tvg-id="Multisports1.fr" tvg-name="FR - MULTISPORTS 1 UHD" tvg-logo="http://logo.protv.cc/picons/logos/multisports1hd.png" group-title="|EU| FRANCE SPORTS",FR - MULTISPORTS 1 UHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543442
+#EXTINF:-1 tvg-id="Multisports2.fr" tvg-name="FR - MULTISPORTS 2 UHD" tvg-logo="http://logo.protv.cc/picons/logos/multisports2hd.png" group-title="|EU| FRANCE SPORTS",FR - MULTISPORTS 2 UHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543443
+#EXTINF:-1 tvg-id="Multisports3.fr" tvg-name="FR - MULTISPORTS 3 UHD" tvg-logo="http://logo.protv.cc/picons/logos/multisports3hd.png" group-title="|EU| FRANCE SPORTS",FR - MULTISPORTS 3 UHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543444
+#EXTINF:-1 tvg-id="Multisports4.fr" tvg-name="FR - MULTISPORTS 4 UHD" tvg-logo="http://logo.protv.cc/picons/logos/multisports4hd.png" group-title="|EU| FRANCE SPORTS",FR - MULTISPORTS 4 UHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543445
+#EXTINF:-1 tvg-id="Multisports5.fr" tvg-name="FR - MULTISPORTS 5 UHD" tvg-logo="http://logo.protv.cc/picons/logos/multisports5hd.png" group-title="|EU| FRANCE SPORTS",FR - MULTISPORTS 5 UHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543446
+#EXTINF:-1 tvg-id="Multisports6.fr" tvg-name="FR - MULTISPORTS 6 UHD" tvg-logo="http://logo.protv.cc/picons/logos/multisports6hd.png" group-title="|EU| FRANCE SPORTS",FR - MULTISPORTS 6 UHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543447
+#EXTINF:-1 tvg-id="" tvg-name="FR - TRACE SPORTS UHD" tvg-logo="http://logo.protv.cc/picons/logos/tracesports.png" group-title="|EU| FRANCE SPORTS",FR - TRACE SPORTS UHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543412
+#EXTINF:-1 tvg-id="OLTV.fr" tvg-name="FR - OL TV UHD" tvg-logo="http://logo.protv.cc/picons/logos/oltvhd.png" group-title="|EU| FRANCE SPORTS",FR - OL TV UHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543410
+#EXTINF:-1 tvg-id="Equidia.fr" tvg-name="FR - EQUIDIA UHD" tvg-logo="http://logo.protv.cc/picons/logos/equidia.png" group-title="|EU| FRANCE SPORTS",FR - EQUIDIA UHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543404
+#EXTINF:-1 tvg-id="LEquipe21.fr" tvg-name="FR - EQUIPE 21 UHD" tvg-logo="http://logo.protv.cc/picons/logos/lequipe21.png" group-title="|EU| FRANCE SPORTS",FR - EQUIPE 21 UHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543400
+#EXTINF:-1 tvg-id="Automoto.fr" tvg-name="FR - AUTOMOTO FHD" tvg-logo="http://logo.protv.cc/picons/logos/automototv.png" group-title="|EU| FRANCE SPORTS",FR - AUTOMOTO FHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/554020
+#EXTINF:-1 tvg-id="Golf.fr" tvg-name="FR - GOLF CHANNEL UHD" tvg-logo="http://logo.protv.cc/picons/logos/golfchannel.png" group-title="|EU| FRANCE SPORTS",FR - GOLF CHANNEL UHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543419
+#EXTINF:-1 tvg-id="GolfPlus.fr" tvg-name="FR - GOLF+ UHD" tvg-logo="http://logo.protv.cc/picons/logos/golfplus.png" group-title="|EU| FRANCE SPORTS",FR - GOLF+ UHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543421
+#EXTINF:-1 tvg-id="" tvg-name="FR - OLYMPIA UHD" tvg-logo="http://logo.protv.cc/picons/logos/olympia.png" group-title="|EU| FRANCE GENERAL",FR - OLYMPIA UHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543210
+#EXTINF:-1 tvg-id="" tvg-name="##### SPORTS HIGHT QUALITY HEVC #####" tvg-logo="http://logo.protv.cc/picons/logos/france-flag.png" group-title="|EU| FRANCE SPORTS",##### SPORTS HIGHT QUALITY HEVC #####
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/627644
+#EXTINF:-1 tvg-id="" tvg-name="##### SPORTS LOW QUALITY SD #####" tvg-logo="" group-title="|EU| FRANCE SPORTS",##### SPORTS LOW QUALITY SD #####
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543379
+#EXTINF:-1 tvg-id="" tvg-name="FR - PRIME 1 SD [LIVE-EVENT]" tvg-logo="http://logo.protv.cc/picons/logos/ligue1.png" group-title="|EU| FRANCE SPORTS",FR - PRIME 1 SD [LIVE-EVENT]
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/619394
+#EXTINF:-1 tvg-id="" tvg-name="FR - PRIME 1 UHD [LIVE-EVENT]" tvg-logo="http://logo.protv.cc/picons/logos/ligue1.png" group-title="|EU| FRANCE SPORTS",FR - PRIME 1 UHD [LIVE-EVENT]
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/603210
+#EXTINF:-1 tvg-id="" tvg-name="FR - PRIME 2 UHD [LIVE-EVENT]" tvg-logo="http://logo.protv.cc/picons/logos/ligue1.png" group-title="|EU| FRANCE SPORTS",FR - PRIME 2 UHD [LIVE-EVENT]
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/603209
+#EXTINF:-1 tvg-id="" tvg-name="FR - PRIME 3 UHD [LIVE-EVENT]" tvg-logo="http://logo.protv.cc/picons/logos/ligue1.png" group-title="|EU| FRANCE SPORTS",FR - PRIME 3 UHD [LIVE-EVENT]
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/603208
+#EXTINF:-1 tvg-id="" tvg-name="FR - PRIME 4 UHD [LIVE-EVENT]" tvg-logo="http://logo.protv.cc/picons/logos/ligue1.png" group-title="|EU| FRANCE SPORTS",FR - PRIME 4 UHD [LIVE-EVENT]
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/603207
+#EXTINF:-1 tvg-id="" tvg-name="FR - PRIME 5 UHD [LIVE-EVENT]" tvg-logo="http://logo.protv.cc/picons/logos/ligue1.png" group-title="|EU| FRANCE SPORTS",FR - PRIME 5 UHD [LIVE-EVENT]
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/603206
+#EXTINF:-1 tvg-id="" tvg-name="FR - PRIME 6 UHD [LIVE-EVENT]" tvg-logo="http://logo.protv.cc/picons/logos/ligue1.png" group-title="|EU| FRANCE SPORTS",FR - PRIME 6 UHD [LIVE-EVENT]
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/603205
+#EXTINF:-1 tvg-id="" tvg-name="FR - PRIME 7 UHD [LIVE-EVENT]" tvg-logo="http://logo.protv.cc/picons/logos/ligue1.png" group-title="|EU| FRANCE SPORTS",FR - PRIME 7 UHD [LIVE-EVENT]
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/603204
+#EXTINF:-1 tvg-id="" tvg-name="FR - PRIME 8 UHD [LIVE-EVENT]" tvg-logo="http://logo.protv.cc/picons/logos/ligue1.png" group-title="|EU| FRANCE SPORTS",FR - PRIME 8 UHD [LIVE-EVENT]
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/603203
+#EXTINF:-1 tvg-id="RMCSport1.fr" tvg-name="FR - RMC SPORT 1" tvg-logo="http://logo.protv.cc/picons/logos/rmcsport1hd.png" group-title="|EU| FRANCE SPORTS",FR - RMC SPORT 1
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543387
+#EXTINF:-1 tvg-id="RMCSport2.fr" tvg-name="FR - RMC SPORT 2" tvg-logo="http://logo.protv.cc/picons/logos/rmcsport2hd.png" group-title="|EU| FRANCE SPORTS",FR - RMC SPORT 2
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543389
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="FR - CANAL+ SPORT" tvg-logo="http://logo.protv.cc/picons/logos/canalplussporthd.png" group-title="|EU| FRANCE SPORTS",FR - CANAL+ SPORT
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543383
+#EXTINF:-1 tvg-id="" tvg-name="FR - CANAL+ PL" tvg-logo="http://logo.protv.cc/picons/logos/CANAL+-PREMIER-LEAGUE.png" group-title="|EU| FRANCE SPORTS",FR - CANAL+ PL
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543385
+#EXTINF:-1 tvg-id="BeinSports1.fr" tvg-name="FR - BEIN SPORTS 1" tvg-logo="http://logo.protv.cc/picons/logos/beinsports1hd.png" group-title="|EU| FRANCE SPORTS",FR - BEIN SPORTS 1
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543395
+#EXTINF:-1 tvg-id="BeinSports2.fr" tvg-name="FR - BEIN SPORTS 2" tvg-logo="http://logo.protv.cc/picons/logos/beinsports2hd.png" group-title="|EU| FRANCE SPORTS",FR - BEIN SPORTS 2
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543397
+#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="FR - BEIN SPORTS 3" tvg-logo="http://logo.protv.cc/picons/logos/beinsports3hdfrance.png" group-title="|EU| FRANCE SPORTS",FR - BEIN SPORTS 3
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543399
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="FR - EUROSPORT 1" tvg-logo="http://logo.protv.cc/picons/logos/eurosport1hd.png" group-title="|EU| FRANCE SPORTS",FR - EUROSPORT 1
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543414
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="FR - EUROSPORT 2" tvg-logo="http://logo.protv.cc/picons/logos/eurosport2hd.png" group-title="|EU| FRANCE SPORTS",FR - EUROSPORT 2
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543416
+#EXTINF:-1 tvg-id="LEquipe21.fr" tvg-name="FR - EQUIPE 21" tvg-logo="http://logo.protv.cc/picons/logos/lequipe21.png" group-title="|EU| FRANCE SPORTS",FR - EQUIPE 21
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543401
+#EXTINF:-1 tvg-id="InfosportPlus.fr" tvg-name="FR - INFOSPORT" tvg-logo="http://logo.protv.cc/picons/logos/INFOSPORT.png" group-title="|EU| FRANCE SPORTS",FR - INFOSPORT
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543409
+#EXTINF:-1 tvg-id="FootPlus24.fr" tvg-name="FR - FOOT 24/24" tvg-logo="http://logo.protv.cc/picons/logos/footplus2424.png" group-title="|EU| FRANCE SPORTS",FR - FOOT 24/24
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543407
+#EXTINF:-1 tvg-id="Automoto.fr" tvg-name="FR - AUTOMOTO" tvg-logo="http://logo.protv.cc/picons/logos/automotolachaine.png" group-title="|EU| FRANCE SPORTS",FR - AUTOMOTO
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543403
+#EXTINF:-1 tvg-id="Equidia.fr" tvg-name="FR - EQUIDIA" tvg-logo="http://logo.protv.cc/picons/logos/equidia.png" group-title="|EU| FRANCE SPORTS",FR - EQUIDIA
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543405
+#EXTINF:-1 tvg-id="OLTV.fr" tvg-name="FR - OL TV" tvg-logo="http://logo.protv.cc/picons/logos/oltvhd.png" group-title="|EU| FRANCE SPORTS",FR - OL TV
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543411
+#EXTINF:-1 tvg-id="GolfPlus.fr" tvg-name="FR - GOLF+" tvg-logo="http://logo.protv.cc/picons/logos/golfplus.png" group-title="",FR - GOLF+
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/246445
+#EXTINF:-1 tvg-id="" tvg-name="FR - OLYMPIA" tvg-logo="http://logo.protv.cc/picons/logos/olympia.png" group-title="|EU| FRANCE GENERAL",FR - OLYMPIA
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543211
+#EXTINF:-1 tvg-id="" tvg-name="##### NEWS HIGHT QUALITY FHD #####" tvg-logo="http://logo.protv.cc/picons/logos/france-flag.png" group-title="|EU| FRANCE NEWS",##### NEWS HIGHT QUALITY FHD #####
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543283
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="FR - FRANCE24 FHD" tvg-logo="http://logo.protv.cc/picons/logos/france24hdenfrancais.png" group-title="|EU| FRANCE NEWS",FR - FRANCE24 FHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543245
+#EXTINF:-1 tvg-id="FranceInfo.fr" tvg-name="FR - FRANCE INFO FHD" tvg-logo="http://logo.protv.cc/picons/logos/franceinfohd.png" group-title="|EU| FRANCE NEWS",FR - FRANCE INFO FHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543233
+#EXTINF:-1 tvg-id="NonStopPeople.fr" tvg-name="FR - NON STOP PEOPLE FHD" tvg-logo="http://logo.protv.cc/picons/logos/nonstoppeoplehd.png" group-title="|EU| FRANCE NEWS",FR - NON STOP PEOPLE FHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/553975
+#EXTINF:-1 tvg-id="LaChaineMeteo.fr" tvg-name="FR - LA CHAINE METEO FHD" tvg-logo="http://logo.protv.cc/picons/logos/lachainemeteohd.png" group-title="|EU| FRANCE NEWS",FR - LA CHAINE METEO FHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/553993
+#EXTINF:-1 tvg-id="Euronews.fr" tvg-name="FR - EURONEWS FHD" tvg-logo="http://logo.protv.cc/picons/logos/euronews.png" group-title="|EU| FRANCE NEWS",FR - EURONEWS FHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543251
+#EXTINF:-1 tvg-id="CNews.fr" tvg-name="FR - C NEWS FHD" tvg-logo="http://logo.protv.cc/picons/logos/cnews.png" group-title="|EU| FRANCE NEWS",FR - C NEWS FHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543231
+#EXTINF:-1 tvg-id="I24News.fr" tvg-name="FR - I24 NEWS FHD" tvg-logo="http://logo.protv.cc/picons/logos/i24newshdfrench.png" group-title="|EU| FRANCE NEWS",FR - I24 NEWS FHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543248
+#EXTINF:-1 tvg-id="LCI.fr" tvg-name="FR - LCI FHD" tvg-logo="http://logo.protv.cc/picons/logos/lcihd.png" group-title="|EU| FRANCE NEWS",FR - LCI FHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/553994
+#EXTINF:-1 tvg-id="LaChaineParlementaire.fr" tvg-name="FR - LCP FHD" tvg-logo="http://logo.protv.cc/picons/logos/lcphd.png" group-title="|EU| FRANCE NEWS",FR - LCP FHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/553995
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="FR - BFM TV FHD" tvg-logo="http://logo.protv.cc/picons/logos/BFM-TV.png" group-title="|EU| FRANCE NEWS",FR - BFM TV FHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543229
+#EXTINF:-1 tvg-id="RTFrance.fr" tvg-name="FR - RT FRANCE FHD" tvg-logo="http://logo.protv.cc/picons/logos/rtfrance.png" group-title="|EU| FRANCE NEWS",FR - RT FRANCE FHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543250
+#EXTINF:-1 tvg-id="BFMParis.fr" tvg-name="FR - BFM PARIS FHD" tvg-logo="http://logo.protv.cc/picons/logos/bfmparis.png" group-title="|EU| FRANCE NEWS",FR - BFM PARIS FHD
+http://line.dino-ott.ru:8000/45d26a1cd8/4244280655/543237
+#EXTINF:-1 tvg-id="" tvg-name="FR - BFM LYON FHD" tvg-logo="http://logo.protv.cc/picons/logos/bfmlyon.png" group-title="|EU| FRANCE NEWS",FR - BFM LYON FHD
